@@ -21,7 +21,7 @@ Dataset contains 16206 animes
 
 This type of recommendation system takes in an anime for instance that a user currently likes as input.  Then it analyzes the contents of the anime to find other animes that have similar content. Then it recommends the most relevant animes according to their ranks.
 
-![resim2](https://github.com/NurFortuna/Content-based-_anime_recommendation_system/blob/main/content-base.png)
+![resim2](https://github.com/ArnabNath1/Anime-Recommendation-System/blob/main/content-base.png?raw=true)
 
 ### Cosine Similarity
 
